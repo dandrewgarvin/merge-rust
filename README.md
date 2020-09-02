@@ -1,3 +1,3 @@
 # merge-rust
 
-readme added to so there are changes on master 2
+readme added to so there are changes on master 3
